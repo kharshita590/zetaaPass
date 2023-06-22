@@ -1,0 +1,15 @@
+body{
+
+
+   font-family:'Red Rose', sans-serif;
+
+}
+.line{
+    width:62rem;
+    height:0.1rem;
+    margin-left:11rem;
+    background-color:rgb(255, 255, 255);
+}
+.dateTime button{
+    margin-right: 8px;
+}
